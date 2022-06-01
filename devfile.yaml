@@ -5,7 +5,7 @@ metadata:
   provider: Red Hat
   supportUrl: https://github.com/devfile-samples/devfile-support#support-information
   website: https://quarkus.io
-  displayName: Quarkus Java
+  displayName: Quarkus Java Test
   description: Upstream Quarkus with Java+GraalVM
   tags: ["Java", "Quarkus"]
   projectType: "quarkus"
